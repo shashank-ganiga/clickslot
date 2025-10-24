@@ -27,7 +27,7 @@ Version Control :	Git & GitHub
 ⚙️ Installation & Setup
 
 1️⃣ Clone the Repository
-git clone https://github.com/shashank-ganiga/Cognifyz-Technologies.git
+git clone https://github.com/shashank-ganiga/clickslot.git
 cd Cognifyz-Technologies/ClickSlot
 
 2️⃣ Install Dependencies
