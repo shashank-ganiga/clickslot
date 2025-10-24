@@ -28,7 +28,7 @@ Version Control :	Git & GitHub
 
 1️⃣ Clone the Repository
 git clone https://github.com/shashank-ganiga/clickslot.git
-cd Cognifyz-Technologies/ClickSlot
+cd clickslot
 
 2️⃣ Install Dependencies
 npm install
