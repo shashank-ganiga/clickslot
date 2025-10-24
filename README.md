@@ -8,13 +8,23 @@ Secure authentication with Google OAuth via Clerk Create, edit, and delete event
 
 🧰 Tech Stack
 
-Frontend : Next.js, React, Tailwind CSS, ShadCN UI Backend : Next.js API Routes Authentication : Clerk with Google OAuth Database : NeonDB (PostgreSQL) ORM : Prisma Form Handling : React Hook Form & Zod Validation Integration : Google Calendar API Version Control : Git & GitHub
+Frontend : Next.js, React, Tailwind CSS, ShadCN UI 
+Backend : Next.js API Routes 
+Authentication : Clerk with Google OAuth 
+Database : NeonDB (PostgreSQL) 
+ORM : Prisma 
+Form Handling : React Hook Form & Zod Validation 
+Integration : Google Calendar API V
+ersion Control : Git & GitHub
 
 ⚙️ Installation & Setup
 
-1️⃣ Clone the Repository git clone https://github.com/shashank-ganiga/clickslot.git cd clickslot
+1️⃣ Clone the Repository 
+git clone https://github.com/shashank-ganiga/clickslot.git 
+cd clickslot
 
-2️⃣ Install Dependencies npm install
+2️⃣ Install Dependencies 
+npm install
 
 3️⃣ Setup Environment Variables (.env.local) DATABASE_URL=your_neondb_connection_url
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
@@ -24,12 +34,16 @@ GOOGLE_CLIENT_ID=your_google_client_id
 GOOGLE_CLIENT_SECRET=your_google_client_secret
 NEXT_PUBLIC_BASE_URL=http://localhost:3000
 
-4️⃣ Run Database Migrations npx prisma migrate dev
+4️⃣ Run Database Migrations 
+npx prisma migrate dev
 
-5️⃣ Start the Application npm run dev
+5️⃣ Start the Application 
+npm run dev
 
 Open http://localhost:3000 to access the app.
 
 👨‍💻 By
 
-Shashank Ganiga 🌐 GitHub: shashank-ganiga 🔗 LinkedIn: linkedin.com/in/shashank-ganiga/
+Shashank Ganiga 
+🌐 GitHub: shashank-ganiga 
+🔗 LinkedIn: linkedin.com/in/shashank-ganiga/
